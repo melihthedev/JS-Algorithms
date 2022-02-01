@@ -1,4 +1,4 @@
-# This repository consists of the solutions of the algorithm quesionts i've solved.
+# This repository consists of the solutions of the algorithm questions i've solved.
 
 ---
 
